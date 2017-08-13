@@ -5,6 +5,6 @@ In this reposirtory I have added some of the projects I have worked on while tak
 Content Summary:
   - ManageBudget : Project written in C++ that asks for usr input on income and expenses and displays a simple budget.
   - MovieAnalizer : Project written in Java that reads data from a file and performs a series of tasks creating objects.
-  - manageAppointment : Project written in Java that simulates a samll doctors office creating objects and setting          appointments. 
+  - manageAppointment : Project written in Java that simulates a sample of a doctor's office creating objects and setting          appointments. 
   - SimpleCashCount : This simple program is built on C++ and it has very simple calculations using the moudulus operator. 
 
